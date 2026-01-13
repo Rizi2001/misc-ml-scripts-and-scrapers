@@ -2,7 +2,7 @@
 
 ## Repository Structure
 <pre>
-Tech Gallery
+Repo
 │
 ├──Project Folder
 │	├──Code/Notebook
